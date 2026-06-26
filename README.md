@@ -254,4 +254,20 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+## Array
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
