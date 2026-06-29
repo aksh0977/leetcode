@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,4 +271,16 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
