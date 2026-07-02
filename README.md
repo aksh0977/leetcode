@@ -239,12 +239,14 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -252,6 +254,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -308,5 +312,10 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
