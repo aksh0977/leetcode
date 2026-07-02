@@ -239,6 +239,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -246,6 +247,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -312,10 +315,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
