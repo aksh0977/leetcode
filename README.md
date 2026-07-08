@@ -266,6 +266,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aksh0977/leetcode/tree/master/0001-two-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -288,6 +289,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aksh0977/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
