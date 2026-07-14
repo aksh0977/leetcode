@@ -325,4 +325,12 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
