@@ -237,6 +237,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/aksh0977/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aksh0977/leetcode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/aksh0977/leetcode/tree/master/0743-network-delay-time) |
@@ -295,6 +296,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -336,4 +338,12 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
