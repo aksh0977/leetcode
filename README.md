@@ -421,4 +421,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aksh0977/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aksh0977/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aksh0977/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
