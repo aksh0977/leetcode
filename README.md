@@ -449,12 +449,14 @@
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aksh0977/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Memoization
 |  |
 | ------- |
@@ -463,4 +465,9 @@
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aksh0977/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## String
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
