@@ -287,6 +287,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aksh0977/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/aksh0977/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aksh0977/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
@@ -313,6 +314,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -374,6 +376,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
