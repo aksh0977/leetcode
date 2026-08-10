@@ -293,6 +293,7 @@
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aksh0977/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aksh0977/leetcode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -378,6 +379,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
@@ -440,6 +442,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/aksh0977/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
