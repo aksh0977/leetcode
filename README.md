@@ -297,6 +297,7 @@
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aksh0977/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aksh0977/leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aksh0977/leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/aksh0977/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -333,6 +335,7 @@
 | [0001-two-sum](https://github.com/aksh0977/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -496,8 +499,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
