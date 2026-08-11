@@ -292,6 +292,7 @@
 | [0040-combination-sum-ii](https://github.com/aksh0977/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/aksh0977/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
@@ -326,6 +327,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aksh0977/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/aksh0977/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aksh0977/leetcode/tree/master/0283-move-zeroes) |
