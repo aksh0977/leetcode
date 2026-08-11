@@ -302,6 +302,7 @@
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/aksh0977/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -337,6 +338,7 @@
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -505,4 +507,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aksh0977/leetcode/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
