@@ -309,6 +309,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -514,4 +516,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
