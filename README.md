@@ -307,6 +307,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aksh0977/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
@@ -480,6 +483,7 @@
 | ------- |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aksh0977/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Memoization
