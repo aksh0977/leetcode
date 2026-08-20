@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<int> resultArray(vector<int>& nums) {
+        vector<int> nums1 = {nums[0]};
+        vector<int> nums2 = {nums[1]};
+
+        for(int i = 2; i<nums.size(); i++){
+            if(nums1[nums1.size()-1]>nums2[nums2.size()-1]){
+                nums1.push_back(nums[i]);
+            }
+            else nums2.push_back(nums[i]);
+        }
+
+        for(int i = 0; i<nums2.size(); i++){
+            nums1.push_back(nums2[i]);
+        }
+        return nums1;
+    }
+};
