@@ -311,6 +311,7 @@
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aksh0977/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -503,6 +504,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aksh0977/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
