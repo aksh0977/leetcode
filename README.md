@@ -316,6 +316,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aksh0977/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aksh0977/leetcode/tree/master/0213-house-robber-ii) |
@@ -466,6 +467,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aksh0977/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aksh0977/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
@@ -529,4 +531,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
