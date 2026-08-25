@@ -313,6 +313,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksh0977/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aksh0977/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aksh0977/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
