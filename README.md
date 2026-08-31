@@ -397,6 +397,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aksh0977/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aksh0977/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aksh0977/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
