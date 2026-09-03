@@ -1,16 +1,15 @@
 class Solution {
 public:
     int numTrees(int n){
-        if(n<=1) return 1;
-
-        int ans = 0 ;
-
-        for(int i =1 ; i <=n; i++){
-            int left = numTrees(i-1);
-            int right = numTrees(n-i);
-
-            ans += left*right;
+        vector<int> dp(n + 1, 0);
+        dp[0] = 1;
+        dp[1] = 1;
+        for (int nodes = 2; nodes <= n; nodes++) {
+            for (int root = 1; root <= nodes; root++) {
+                dp[nodes] += dp[root - 1] * dp[nodes - root];
+            }
         }
-        return ans;
+
+        return dp[n];
     }
 };
