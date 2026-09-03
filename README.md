@@ -314,6 +314,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksh0977/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aksh0977/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aksh0977/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aksh0977/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
