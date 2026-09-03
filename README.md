@@ -323,6 +323,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aksh0977/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/aksh0977/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aksh0977/leetcode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -417,6 +418,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aksh0977/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aksh0977/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aksh0977/leetcode/tree/master/0101-symmetric-tree) |
@@ -438,6 +440,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aksh0977/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aksh0977/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aksh0977/leetcode/tree/master/0101-symmetric-tree) |
@@ -458,6 +461,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aksh0977/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/aksh0977/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksh0977/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -478,6 +482,7 @@
 | [0050-powx-n](https://github.com/aksh0977/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aksh0977/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aksh0977/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/aksh0977/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aksh0977/leetcode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aksh0977/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aksh0977/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
