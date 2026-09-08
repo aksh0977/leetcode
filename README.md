@@ -237,6 +237,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aksh0977/leetcode/tree/master/0100-same-tree) |
@@ -294,6 +295,7 @@
 | [0040-combination-sum-ii](https://github.com/aksh0977/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aksh0977/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/aksh0977/leetcode/tree/master/0169-majority-element) |
@@ -377,6 +379,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -502,6 +505,7 @@
 | [0040-combination-sum-ii](https://github.com/aksh0977/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aksh0977/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
@@ -525,6 +529,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
