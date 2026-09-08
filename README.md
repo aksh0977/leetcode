@@ -382,6 +382,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aksh0977/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aksh0977/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -430,6 +431,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksh0977/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksh0977/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aksh0977/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksh0977/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -452,6 +454,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksh0977/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/aksh0977/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aksh0977/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aksh0977/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aksh0977/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -506,6 +509,7 @@
 | ------- |
 | [0078-subsets](https://github.com/aksh0977/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aksh0977/leetcode/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/aksh0977/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aksh0977/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
