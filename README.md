@@ -331,6 +331,7 @@
 | [0198-house-robber](https://github.com/aksh0977/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aksh0977/leetcode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/aksh0977/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aksh0977/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/aksh0977/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksh0977/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/aksh0977/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/aksh0977/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
@@ -369,6 +371,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aksh0977/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/aksh0977/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/aksh0977/leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/aksh0977/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aksh0977/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aksh0977/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -533,6 +536,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
+| [0678-valid-parenthesis-string](https://github.com/aksh0977/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aksh0977/leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
@@ -574,4 +578,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aksh0977/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aksh0977/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
