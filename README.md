@@ -275,6 +275,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aksh0977/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/aksh0977/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Graph Theory
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [1386-cinema-seat-allocation](https://github.com/aksh0977/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aksh0977/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/aksh0977/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aksh0977/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aksh0977/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aksh0977/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -386,6 +388,7 @@
 | [0079-word-search](https://github.com/aksh0977/leetcode/tree/master/0079-word-search) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aksh0977/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aksh0977/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/aksh0977/leetcode/tree/master/1765-map-of-highest-peak) |
 ## Binary Search
 |  |
 | ------- |
